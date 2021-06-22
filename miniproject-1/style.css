@@ -1,0 +1,44 @@
+body {
+  background-color: #FCFFEB;
+  font-family: 'Mulish', sans-serif;
+}
+
+.about {
+  margin-top: 50px;
+}
+.about img {
+  align-items: left;
+  margin-left: 100px;
+}
+
+.about h1 {
+  font-size: 60px;
+  margin-top: 60px;
+  margin-right: 50px;
+  margin-left: -210px;
+}
+
+.about h5 {
+  margin-top: 10px;
+  margin-left: -210px;
+}
+
+.funfacts h2 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.funfacts ul {
+  list-style-type: none;
+  margin-left: 80px;
+}
+
+.funfacts a {
+  color: black;
+}
+
+.funfacts a:hover {
+  color: #EDAD68;
+}
