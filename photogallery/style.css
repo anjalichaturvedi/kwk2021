@@ -1,0 +1,27 @@
+body {
+  font-family: 'Mulish', sans-serif;
+}
+
+.header {
+  background-color: #EAEAEA;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+
+.col1 {
+  margin-right: auto;
+}
+
+img {
+  display: inline;
+  height: auto;
+  margin-bottom: 50px;
+  transition: transform .400s;
+}
+
+img:hover {
+  transform: scale(0.9);
+}
